@@ -100,5 +100,8 @@ It is currently available as:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1bpTAEN3K3s" title="YouTube video player" frameborder="0" allow="encrypted-media;" allowfullscreen></iframe>
 
 ### Developer Presentations
+`ArduPilot Developers Conference (October 2026)`
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e58qxl6huHQ" title="YouTube video player" frameborder="0" allow="encrypted-media;" allowfullscreen></iframe>
+
 `ArduPilot Developers Conference (October 2024)`
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IbfDEuGvlmo" title="YouTube video player" frameborder="0" allow="encrypted-media;" allowfullscreen></iframe>
